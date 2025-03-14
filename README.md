@@ -1,8 +1,8 @@
 ﻿# white-board
 
-##Live-link: https://white-board.surge.sh/
+Live-link: https://white-board.surge.sh/
 
-##Tools:
+Tools:
 Canvas graphics, useState, useRef hooks, Mouse up-down-move event handling.
 
 
