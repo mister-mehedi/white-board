@@ -1,4 +1,4 @@
-# 🧼 White-Board – Interactive Canvas Drawing Tool
+# White-Board – Interactive Canvas Drawing Tool
 
 > **Tech Stack:** React · Tailwind CSS · Canvas API · Hooks · Event Listeners
 
